@@ -9,6 +9,7 @@ A supervised machine-learning algorithm was created to predict the race of soldi
 * seaborn
 * matplotlib
 * shap
+* sklearn
 
 # Result
 
